@@ -1,0 +1,28 @@
+:root {
+    --aguamarina: #8bd2b6;
+    --azul: #194796;
+    --naranja: #e28f2d;
+    --magenta: #c44552;
+    --negroS: #292828;
+}
+
+body{
+    background: linear-gradient(30deg,var(--azul), var(--aguamarina));
+    color: var(--marron);
+    text-align: center;
+    padding-top: 50px;
+}
+.carousel{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+/* Voy hacer la img */
+.card img{
+    height: 10%;
+}
+.card p{
+    text-align: justify;
+}
+
+
