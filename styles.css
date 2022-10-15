@@ -1,28 +1,26 @@
 :root {
-    --aguamarina: #8bd2b6;
-    --azul: #194796;
-    --naranja: #e28f2d;
-    --magenta: #c44552;
-    --negroS: #292828;
+    --teVerde: #DDF9C1;
+    --durazno: #F8DDA4;
+    --naranja: #D45113;
+    --azafran: #F9A03F;
+    --marron:#813405; 
+    --negroS: #0f0f0f;
 }
 
 body{
-    background: linear-gradient(30deg,var(--azul), var(--aguamarina));
-    color: var(--marron);
+    background: linear-gradient(160deg, var(--naranja),var(--durazno));
+    
+    color: var(--negroS);
     text-align: center;
     padding-top: 50px;
 }
-.carousel{
-    width: 70%;
-    margin: 0 auto;
-    margin-top: 50px;
-}
-/* Voy hacer la img */
-.card img{
-    height: 10%;
-}
-.card p{
-    text-align: justify;
+
+.card {
+    background: linear-gradient(0deg, var(--azafran),var(--teVerde));
 }
 
 
+.card img  {
+    border-radius: 8px;
+    border: solid 4px var(--marron);
+}
