@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "img": "./assets/perro1.jpg", 
+        "img": "assets/perro1.jpg", 
         "nombre": "Kemal", 
         "especie": "perro", 
         "edad": "6", 
@@ -19,7 +19,7 @@
     },
     {
         "id":2,
-        "img": "./assets/perro2.jpg",
+        "img": "assets/perro2.jpg",
         "nombre": "Osi",
         "especie": "mestizo",
         "edad": "3",
@@ -37,7 +37,7 @@
     },
     {
         "id": 3,
-        "img": "./assets/gato1.jpg",
+        "img": "assets/gato1.jpg",
         "nombre": "SuperCat",
         "especie": "gato",
         "edad": "10", 
@@ -55,7 +55,7 @@
     },
     {
         "id":4,
-        "img": "./assets/gato2.jpg",
+        "img": "assets/gato2.jpg",
         "nombre": "Felipe",
         "especie": "perro",
         "edad": "11",
@@ -73,7 +73,7 @@
     },
     {
         "id":5,
-        "img": "./assets/avatarGato.png", 
+        "img": "assets/avatarGato.png", 
         "nombre": "Misha", 
         "especie": "Gato", 
         "edad": "2", 
@@ -91,7 +91,7 @@
     },
     {
         "id":6,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "Kiara",
         "especie": "Gata", 
         "edad": "5 años",
@@ -109,7 +109,7 @@
     },
     {
         "id":7,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Nina", 
         "especie": "perro", 
         "edad": "12 años", 
@@ -127,7 +127,7 @@
     },
     {
         "id":8,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "Tom", 
         "especie": "Gato", 
         "edad": "3 años", 
@@ -145,7 +145,7 @@
     },
     {
         "id":9,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Camila", 
         "especie": "Perro",
         "edad": "3 anios", 
@@ -163,7 +163,7 @@
     },
     {
         "id":10,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Maia",
         "especie": "callejero", 
         "edad": "5",
@@ -181,7 +181,7 @@
     },
     {
         "id":11,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "Garfield", 
         "especie": "siames", 
         "edad": "6", 
@@ -199,7 +199,7 @@
     },
     {
         "id":12,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Blako", 
         "especie": "Perro", 
         "edad": "12 años", 
@@ -234,7 +234,7 @@
     },
     {
         "id":14,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "Tomy", 
         "especie": "Gato", 
         "edad": "4", 
@@ -252,7 +252,7 @@
     },
     {
         "id":15,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Sammy",
         "especie": "mixta",
         "edad": "28 meses",
@@ -270,7 +270,7 @@
     },
     {
         "id":16,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Nicky", 
         "especie": "Bengalí", 
         "edad": "6 años", 
@@ -288,7 +288,7 @@
     },
     {
         "id":17,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Ragnar",
         "especie": "Perro", 
         "edad": "2 años",
@@ -306,7 +306,7 @@
     },
     {
         "id": 18,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre":  "Aurora",
         "especie": "perro", 
         "edad": "12 años",
@@ -324,7 +324,7 @@
     },
     {
         "id": 19,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "SuperCat",
         "especie": "gato",
         "edad": "10", 
@@ -342,7 +342,7 @@
     },
     {
         "id":20,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "china",
         "especie": "pepe", 
         "edad": "2 años" ,
@@ -360,7 +360,7 @@
     },
     {
         "id":21,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "maia",
         "especie": "callejera", 
         "edad": "5 años" ,
@@ -395,7 +395,7 @@
         },
     {
         "id":23,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre": "maia",
         "especie": "callejera", 
         "edad": "5 años" ,
@@ -430,7 +430,7 @@
     },
     {
         "id":25,
-        "img": "./assets/avatarPerro.png",
+        "img": "assets/avatarPerro.png",
         "nombre": "Milo",
         "especie": "Bichon frisé", 
         "edad": "3 años" ,
@@ -448,7 +448,7 @@
     },
     { 
         "id":26,
-        "img": "./assets/avatarGato.png",
+        "img": "assets/avatarGato.png",
         "nombre":"Chusilizco", 
         "especie":"gato", 
         "edad":"1 año",
